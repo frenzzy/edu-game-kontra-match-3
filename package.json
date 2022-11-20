@@ -1,0 +1,14 @@
+{
+  "name": "edu-game-kontra-match-3",
+  "version": "1.0.0",
+  "description": "JavaScript Game Development with Kontra.js",
+  "scripts": {
+    "format": "prettier --write src",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "kontra": "^8.0.0",
+    "typescript": "^4.9.3"
+  }
+}
